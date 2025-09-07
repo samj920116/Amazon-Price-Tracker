@@ -1,0 +1,7 @@
+.venv
+.env
+amazon_API.py
+test.py
+*.json
+.idea/
+__pycache__
